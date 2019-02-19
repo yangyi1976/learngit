@@ -7,3 +7,5 @@ modify after connect remote learngit@github.com.
 try again,modify ---->remote repositories.
 
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
+ 
