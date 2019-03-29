@@ -1,0 +1,168 @@
+ # google
+74.125.237.1 dl-ssl.google.com 
+2404:6800:4005:800::200e security.google.com
+2404:6800:4005:800::200e docs.google.com
+
+2404:6800:4005:800::200e earth.google.com
+
+2404:6800:4005:802::2003 news.google.com.hk
+
+2404:6800:4005:802::2005 inbox.google.com
+
+2404:6800:4005:802::200e mt0.googleapis.com
+
+2404:6800:4005:802::200e mt1.googleapis.com
+
+2404:6800:4005:802::200e play.google.com
+
+2404:6800:4005:802::200e wallet.google.com
+
+2404:6800:4005:802::200e chrome.google.com
+
+2404:6800:4005:803::2003 translate.google.com.hk
+
+2404:6800:4005:803::2005 mail.google.com
+
+2404:6800:4005:803::2009 www.blogger.com
+
+2404:6800:4005:803::200d accounts.google.com
+
+2404:6800:4005:803::200e ipv6.google.com
+
+2404:6800:4005:803::200e developers.google.com
+
+2404:6800:4005:803::200e maps.google.com
+
+2404:6800:4005:803::200e translate.google.com
+
+2404:6800:4005:803::200e books.google.com
+
+2404:6800:4005:803::200e support.google.com
+
+2404:6800:4005:804::200e news.google.com
+
+2404:6800:4005:804::200e pki.google.com
+
+2404:6800:4005:805::2004 google-analytics.com
+
+2404:6800:4005:805::200e drive.google.com
+
+2404:6800:4005:805::200e myaccount.google.com
+
+2404:6800:4005:805::200e clients2.google.com
+
+2404:6800:4005:805::200e plus.google.com
+
+2404:6800:4005:80a::2003 gstatic.com
+
+2404:6800:4005:80a::200e safebrowsing.clients.google.com
+
+2404:6800:4005:80a::200e plus.google.com
+
+2404:6800:4005:80b::200e clients4.google.com
+
+2404:6800:4008:c01::88 dl.google.com
+
+2404:6800:4008:c01::8a code.google.com
+
+2404:6800:4008:c01::8b groups.google.com
+
+2404:6800:4008:c02::66 tools.google.com
+
+2404:6800:4008:c02::76 feedproxy.google.com
+
+2404:6800:4008:c03::5f maps.googleapis.com
+
+2404:6800:4008:c03::5f fonts.googleapis.com
+
+2404:6800:4008:c03::63 picasa.google.com.hk
+
+2404:6800:4008:c03::71 video.google.com
+
+2404:6800:4008:c03::76 mw1.google.com
+
+2404:6800:4008:c05::66 video.google.com.hk
+
+2404:6800:4008:c05::5b kh.google.com
+
+2404:6800:4008:c05::5f ajax.googleapis.com
+
+2404:6800:4008:c05::5f www.googleapis.com
+
+2404:6800:4005:808::2004 ggpht.com
+
+2404:6800:4005:809::2004 ggpht.com
+
+2404:6800:4005:80a::2004 ggpht.com
+
+2404:6800:4005:80b::2004 ggpht.com
+
+2404:6800:4005:808::2004 googleusercontent.com
+
+2404:6800:4005:809::2004 googleusercontent.com
+
+2404:6800:4005:80a::2004 googleusercontent.com
+
+2404:6800:4005:80b::2004 googleusercontent.com
+
+2607:f8b0:4002:c06::8a android.clients.google.com
+
+2404:6800:4005:808::2004 www.google.com.hk
+
+2404:6800:4005:809::2004 www.google.com.hk
+
+2404:6800:4005:80a::2004 www.google.com.hk
+
+2404:6800:4005:80b::2004 www.google.com.hk
+
+2404:6800:4005:808::2004 books.google.com.hk
+
+2404:6800:4005:809::2004 books.google.com.hk
+
+2404:6800:4005:80a::2004 books.google.com.hk
+
+2404:6800:4005:80b::2004 books.google.com.hk
+
+2404:6800:4005:808::2004 maps.google.com.hk
+
+2404:6800:4005:809::2004 maps.google.com.hk
+
+2404:6800:4005:80a::2004 maps.google.com.hk
+
+2404:6800:4005:80b::2004 maps.google.com.hk
+
+2404:6800:4005:808::2004 images.google.com.hk
+
+2404:6800:4005:809::2004 images.google.com.hk
+
+2404:6800:4005:80a::2004 images.google.com.hk
+
+2404:6800:4005:80b::2004 images.google.com.hk
+
+2404:6800:4005:808::2004 cse.google.com.hk
+
+2404:6800:4005:809::2004 cse.google.com.hk
+
+2404:6800:4005:80a::2004 cse.google.com.hk
+
+2404:6800:4005:80b::2004 cse.google.com.hk
+
+2404:6800:4005:803::200e store.google.com
+
+2404:6800:4005:804::200e store.google.com
+ 
+# YouTube
+2404:6800:4005:811::200e www.youtube.com
+2404:6800:4005:803::2016 www.youtube.com
+2404:6800:4005:800::2001 www.youtube.com
+2404:6800:4005:80d::200e www.youtube.com
+2404:6800:4005:809::200e www.youtube.com
+
+# Facebook 
+2a03:2880:f10d:83:face:b00c:0:25de www.Facebook.com
+2a03:2880:f10d:83:face:b00c:0:25de Facebook.com
+
+# Google translation
+2404:6800:4005:80e::200e translate.google.com
+
+192.168.59.1 windows10.microdone.cn
